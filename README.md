@@ -1,7 +1,5 @@
 # ColdMAILgenerator
 
-# ColdMAILgenerator
-
 ColdMAILgenerator is a web application that leverages the Llama 3.1 8B Instant model to automate the creation of personalized cold emails. It enables companies to efficiently reach out to potential clients by generating tailored emails based on job postings.
 
 ## Features
